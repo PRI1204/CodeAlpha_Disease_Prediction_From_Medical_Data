@@ -52,18 +52,6 @@ The goal of this project is to:
 
 ---
 
-## 📂 Project Structure
-
-├── app.py # Streamlit app
-├── model.pkl # Trained ML model
-├── scaler.pkl # Data scaler
-├── credit_risk_dataset.csv # Dataset
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-
-
----
-
 ## ▶️ How to Run Locally
 
 ```bash
