@@ -6,8 +6,7 @@ This project is a Machine Learning-based system that predicts whether a disease 
 
 ## 🚀 Live Application
 🌐 **Try the app here:**  
-👉 https://your-app-name.streamlit.app  
-
+👉 https://disease-prediction-from-medical-data.streamlit.app/
 ---
 
 ## 📌 Project Overview
